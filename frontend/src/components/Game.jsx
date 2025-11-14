@@ -55,7 +55,7 @@ export const Game = () => {
         answer: 1 // B)
      },
      {
-        question: "¿Cuál es la definición correcta de *Proceso de Negocio* en el 'Nuevo Paradigma' de gestión?",
+        question: "¿Cuál es la definición correcta de Proceso de Negocio en el 'Nuevo Paradigma' de gestión?",
         options: [
             "A)- Un conjunto de funciones y tareas aisladas asignadas a un departamento específico (ej. Compras).",
                "B)- Una secuencia de actividades interrelacionadas que busca un resultado para el cliente y cruza distintas áreas funcionales.",
@@ -65,7 +65,7 @@ export const Game = () => {
         answer: 1 // B)
      },
      {
-        question: "Una de las características del *Nuevo Paradigma* de Gestión por Procesos es que las decisiones están basadas en el análisis de datos. ¿Qué principio de mejora acompaña a esta característica?",
+        question: "Una de las características del Nuevo Paradigma de Gestión por Procesos es que las decisiones están basadas en el análisis de datos. ¿Qué principio de mejora acompaña a esta característica?",
         options: [
             "A)- El empleado es el problema, por lo que se debe evaluar al individuo.",
                "B)- La única fuente de verdad son las experiencias pasadas de los gerentes.",
@@ -75,7 +75,7 @@ export const Game = () => {
         answer: 2 // C)
      },
      {
-        question: "¿Cuál es la definición correcta de *Ingeniería de Requerimientos (IR)*?",
+        question: "¿Cuál es la definición correcta de Ingeniería de Requerimientos (IR)?",
         options: [
             "A)- La actividad de codificar el sistema y realizar pruebas de integración.",
                "B)- El diseño de la base de datos y la arquitectura del sistema.",
@@ -85,7 +85,7 @@ export const Game = () => {
         answer: 2 // C)
      },
      {
-        question: "En el proceso de la IR, ¿qué etapa es descrita como una actividad más *'humana' que 'técnica'*, centrada en la *captura y descubrimiento* de requisitos?",
+        question: "En el proceso de la IR, ¿qué etapa es descrita como una actividad más 'humana' que 'técnica', centrada en la captura y descubrimiento de requisitos?",
         options: [
             "A)- Especificación de Requerimientos.",
                "B)- Elicitación (o Educción) de Requisitos.",
@@ -95,7 +95,7 @@ export const Game = () => {
         answer: 1 // B)
      },
      {
-        question: "¿Qué notación gráfica proporciona un *lenguaje común y estandarizado* para la representación de *Procesos de Negocio*?",
+        question: "¿Qué notación gráfica proporciona un lenguaje común y estandarizado para la representación de Procesos de Negocio?",
         options: [
             "A)- UML (Unified Modeling Language).",
                "B)- BPMN (Business Process Management Notation).",
@@ -105,27 +105,27 @@ export const Game = () => {
         answer: 1 // B)
      },
      {
-        question: "En un diagrama *BPMN*, ¿cuál es la función principal de la *Compuerta (Gateway)*?",
+        question: "En un diagrama BPMN, ¿cuál es la función principal de la Compuerta (Gateway)?",
         options: [
             "A)- Representar un trabajo o tarea que debe ser realizado por un participante.",
                "B)- Representar el inicio o el fin del proceso de negocio.",
-               "C)- Controlar el flujo de secuencia, permitiendo la *divergencia* (división) o *convergencia* (unión) lógica de múltiples caminos.",
+               "C)- Controlar el flujo de secuencia, permitiendo la divergencia (división) o convergencia (unión) lógica de múltiples caminos.",
                "D)- Agrupar todas las actividades realizadas por un participante o departamento."
         ],
         answer: 2 // C)
      },
      {
-        question: "¿Cuál es la principal ventaja de utilizar la técnica de relevamiento de *Historias de Usuario (User Stories)* en metodologías ágiles?",
+        question: "¿Cuál es la principal ventaja de utilizar la técnica de relevamiento de Historias de Usuario (User Stories) en metodologías ágiles?",
         options: [
             "A)- Obtener un alto volumen de información a bajo costo.",
-               "B)- Priorizar la *conversación* y la simplicidad sobre la formalización excesiva de requisitos.",
+               "B)- Priorizar la conversación y la simplicidad sobre la formalización excesiva de requisitos.",
                "C)- Establecer la estructura detallada de la base de datos y las clases de software.",
                "D)- Reemplazar completamente el diálogo con el cliente por documentación escrita."
         ],
         answer: 1 // B)
      },
      {
-        question: "La técnica de relevamiento que utiliza el formato *'Como [Rol], quiero [Funcionalidad], para [Resultado]'* se conoce como:",
+        question: "La técnica de relevamiento que utiliza el formato 'Como [Rol], quiero [Funcionalidad], para [Resultado]' se conoce como:",
         options: [
             "A)- Entrevistas Estructuradas.",
                "B)- Historias de Usuario.",
@@ -135,47 +135,47 @@ export const Game = () => {
         answer: 1 // B)
      },
      {
-        question: "¿En qué consiste la técnica de relevamiento de *Análisis de Documentación*?",
+        question: "¿En qué consiste la técnica de relevamiento de Análisis de Documentación?",
         options: [
             "A)- Estudiar el entorno de trabajo del usuario haciendo preguntas mientras trabaja.",
                "B)- Reunir a varios expertos para generar ideas sin permitir la crítica inicial.",
-               "C)- Obtener información sobre requerimientos a partir de *documentos ya elaborados* (contratos, reglas de negocio, manuales, etc.).",
+               "C)- Obtener información sobre requerimientos a partir de documentos ya elaborados (contratos, reglas de negocio, manuales, etc.).",
                "D)- Una serie de preguntas escritas con alto control sobre el grupo que las responde."
         ],
         answer: 2 // C)
      },
      {
-        question: "¿En qué situación de relevamiento de requisitos es más apropiada la técnica de *Análisis de Documentación*?",
+        question: "¿En qué situación de relevamiento de requisitos es más apropiada la técnica de Análisis de Documentación?",
         options: [
             "A)- Cuando el analista necesita observar las tareas diarias en tiempo real.",
                "B)- Cuando se desea generar ideas innovadoras y se requiere la participación activa de los stakeholders.",
-               "C)- Cuando los *expertos en la materia no están disponibles* para ser entrevistados o ya no forman parte de la organización.",
+               "C)- Cuando los expertos en la materia no están disponibles para ser entrevistados o ya no forman parte de la organización.",
                "D)- Cuando se busca obtener información muy detallada y profunda sobre un tema específico."
         ],
         answer: 2 // C)
      },
      {
-        question: "¿Cuál es la principal ventaja de utilizar la técnica de *Cuestionarios* para la elicitación de requisitos?",
+        question: "¿Cuál es la principal ventaja de utilizar la técnica de Cuestionarios para la elicitación de requisitos?",
         options: [
             "A)- Permiten indagar en profundidad sobre temas complejos y ambiguos.",
-               "B)- Único medio factible para relevar a un *gran número de personas* a un costo relativamente bajo.",
+               "B)- Único medio factible para relevar a un gran número de personas a un costo relativamente bajo.",
                "C)- Eliminan por completo los problemas de interpretación de las preguntas y las respuestas.",
                "D)- Reemplazan la necesidad de validar la información obtenida."
         ],
         answer: 1 // B)
      },
      {
-        question: "¿Qué acción es esencial realizar *después* de aplicar una técnica de elicitación como la Entrevista para asegurar la calidad de los requisitos?",
+        question: "¿Qué acción es esencial realizar después de aplicar una técnica de elicitación como la Entrevista para asegurar la calidad de los requisitos?",
         options: [
             "A)- Comenzar inmediatamente a prototipar la interfaz de usuario.",
                "B)- Descartar cualquier requisito no funcional, ya que son menos importantes.",
-               "C)- Resumir lo obtenido y *solicitar la confirmación por escrito* del entrevistado.",
+               "C)- Resumir lo obtenido y solicitar la confirmación por escrito del entrevistado.",
                "D)- Realizar una observación activa del entorno de trabajo de otro departamento."
         ],
         answer: 2 // C)
      },
      {
-        question: "Además de la Corrección de Errores y la Adaptación por Evolución del Entorno, ¿qué otra categoría de cambio cubre la fase de *Mantenimiento* (el 'Cambio') en el Proceso Genérico de la IS?",
+        question: "Además de la Corrección de Errores y la Adaptación por Evolución del Entorno, ¿qué otra categoría de cambio cubre la fase de Mantenimiento* (el 'Cambio') en el Proceso Genérico de la IS?",
         options: [
             "A)- Planificación del proyecto.",
                "B)- Generación del código.",
@@ -195,7 +195,7 @@ export const Game = () => {
 
         <h2 className="text-xl mb-6">
           Puntaje final: 
-          <span className="text-black font-bold"> {score} / {questions.length}</span>
+          <span className="text-b font-bold"> {score} / {questions.length}</span>
         </h2>
 
         <button
