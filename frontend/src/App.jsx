@@ -6,6 +6,7 @@ import HomePage from "./pages/HomePage";
 import Tgs from "./pages/Tgs";
 import Requirements from "./pages/Requirements";
 import BPMN from "./pages/BPMN";
+import { Game } from "./components/Game";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Tgs />
       <Requirements />
       <BPMN />
+      <Game/>
     </>
   );
 }
